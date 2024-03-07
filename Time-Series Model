@@ -14,3 +14,7 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from statsmodels.tsa.seasonal import seasonal_decompose
 warnings.filterwarnings('ignore', category=FutureWarning)
+
+# load the dataset into my notebook
+data_path = "C:\\Users\\Francis Mwangi\\Desktop\\craigslist_vehicles.csv"
+data = pd.read_csv(data_path)
