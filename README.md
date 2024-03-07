@@ -1,7 +1,7 @@
 # Craigslist's Used Vehicles Solution
 
-Question 1). Time-Series Model.
-My Approach:
+# Time-Series Model.
+# My Approach:
 
 First, I handled the missing values in the dataset. I resolved this by filling in the missing values with the median and mode of numerical and categorical data on the respective columns.
 
@@ -24,16 +24,16 @@ Data Enrichment Recommendations Google Docs
 
 https://docs.google.com/document/d/1xqjsStpwnFAlP7HwBJKqPG5Oyb8vPwDlgBU7rBXGe3k/edit?usp=sharing
 
-Data Enrichment Recommendations on GitHub.
+# Data Enrichment Recommendations on GitHub.
 
 https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question%202%20and%203%20Docs/Data%20Enrichment%20Recommendations.pdf
 
-Question 3). Data Warehouse Structure.
+# Data Warehouse Structure.
 Data Warehouse Structure Google Docs.
 
 https://docs.google.com/document/d/1KQONTgf0KDme2s-GxvPmv0IfhoZR9Uf1XWKz6ZswBu4/edit?usp=sharing
 
-Data Warehouse Structure on GitHub:
+# Data Warehouse Structure on GitHub:
 
 https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question%202%20and%203%20Docs/Data%20Warehouse%20Structure.pdf
 
