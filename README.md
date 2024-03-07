@@ -15,10 +15,6 @@ Pandas Solution explained: https://github.com/FRANCIS-KHUSH/Athena-Project-Test/
 
 
 
-Notebook Viewer for Pandas Scripts: https://nbviewer.org/github/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Pandas%20Explore%20the%20Data%20and%20Build%20the%20Model%20-%20Complete.ipynb
-
-The Second reason is it is impossible to preview the notebook on GitHub since the Panda's scripts file and visuals it too huge. To solve this I have used Notebook Viewer to show the notebook.
-
 # Data Enrichment Recommendations .
 
 Data Enrichment Recommendations on Google Docs
