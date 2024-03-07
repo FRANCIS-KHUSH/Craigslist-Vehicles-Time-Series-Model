@@ -19,13 +19,9 @@ Notebook Viewer for Pandas Scripts: https://nbviewer.org/github/HarunMbaabu/Crai
 
 The Second reason is it is impossible to preview the notebook on GitHub since the Panda's scripts file and visuals it too huge. To solve this I have used Notebook Viewer to show the notebook.
 
-# Data Enrichment Recommendations on GitHub.
+# Data Enrichment Recommendations on Google Docs.
 
-Data Enrichment Recommendations Google Docs
-
-https://docs.google.com/document/d/1xqjsStpwnFAlP7HwBJKqPG5Oyb8vPwDlgBU7rBXGe3k/edit?usp=sharing](https://docs.google.com/document/d/1GM0bHVvJqZkwP-mdH7WhQt3gJgESOD4yZQkW6tnflgg/edit
-
-
+https://docs.google.com/document/d/1GM0bHVvJqZkwP-mdH7WhQt3gJgESOD4yZQkW6tnflgg/edit
 
 # Data Warehouse Structure.
 Data Warehouse Structure Google Docs.
