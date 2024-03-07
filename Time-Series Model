@@ -1,20 +1,6 @@
 # Time-Series Model.
 Transform the provided record-level dataset into a time-series model. The main objective of this model is to gain insights into the temporal patterns of vehicle listings, with a particular emphasis on conducting an inventory analysis over time, segmented by regions. For instance, the model should facilitate the creation of a time-series chart that represents the number of available vehicles over time, filtered by specific criteria such as region, vehicle type, etc. This will aid in understanding regional demand-supply dynamics, seasonal trends, and other relevant insights.
 
-Step 1:
-I will import the necessary packages, handle missing values, drop unnecessary columns, and convert the "posting_date" to a datetime data type.
 
-#load all the neccessary packages that i will use in the notebook. 
 
-import pytz
-import warnings
-import pandas as pd
-import plotly.express as px
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-from statsmodels.tsa.seasonal import seasonal_decompose
-warnings.filterwarnings('ignore', category=FutureWarning)
 
-# load the dataset into my notebook
-data_path = "C:\\Users\\Francis Mwangi\\Desktop\\craigslist_vehicles.csv"
-data = pd.read_csv(data_path)
