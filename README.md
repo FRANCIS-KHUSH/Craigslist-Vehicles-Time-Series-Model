@@ -28,9 +28,6 @@ Data Warehouse Structure Google Docs.
 
 https://docs.google.com/document/d/1KQONTgf0KDme2s-GxvPmv0IfhoZR9Uf1XWKz6ZswBu4/edit?usp=sharing
 
-# Data Warehouse Structure on GitHub:
-
-https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question%202%20and%203%20Docs/Data%20Warehouse%20Structure.pdf
-
 Data Warehouse Structure Image
 
+![Data Warehouse Structure](https://github.com/FRANCIS-KHUSH/Athena-Project-Test/assets/65183442/666cb3d5-d716-4c82-87f4-730462e6c307)
