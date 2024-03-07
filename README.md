@@ -11,7 +11,7 @@ I then used the posting_date column to create a datetime index for the dataset, 
 
 Once I had clean data I explored it using different visualizations and statistical analysis approached. I used this step to analyze temporal patterns, seasonal trends, and demand-supply dynamics by region and vehicle type.And finally with a good understanding of the data, I created the time-series charts.
 
-Pandas Solution explained: https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question1.md
+Pandas Solution explained: https://github.com/HarunMbaabu/Craigslist-Used-Vehicles-Solution-Athena/blob/main/Question1.md](https://github.com/FRANCIS-KHUSH/Athena-Project-Test/blob/main/ATHENA%20%20Project%20Test.ipynb
 
 
 
