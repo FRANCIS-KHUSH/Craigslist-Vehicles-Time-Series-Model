@@ -26,8 +26,7 @@ https://docs.google.com/document/d/1GM0bHVvJqZkwP-mdH7WhQt3gJgESOD4yZQkW6tnflgg/
 
 # Data Warehouse Structure.
 Data Warehouse Structure Google drive.
-
-https://docs.google.com/document/d/1KQONTgf0KDme2s-GxvPmv0IfhoZR9Uf1XWKz6ZswBu4/edit?usp=sharing
+https://drive.google.com/file/d/1hI6rLIfTauhh_Dv8eNfeBf5LZq-EqIJ2/view?usp=sharing
 
 Data Warehouse Structure Image
 
